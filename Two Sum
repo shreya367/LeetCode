@@ -1,4 +1,5 @@
 //C++ code for leetcode problem two sum
+//Brute-force approach
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
